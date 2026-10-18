@@ -4,7 +4,7 @@ Bobawu cheers you on after each lap of the Ape Atoll agility course to spice up 
 
 ![Lap completed example text](docs/bobawu-encouragement.png)
 
-## Bobawus dialogues
+## Bobawu's dialogue
 
 - **Countdown:** x more laps until the x monkey! Go! Go!”
 - **Unlock:** “x unlocked! Ook!”
