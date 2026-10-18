@@ -1,6 +1,6 @@
 # Ape Atoll Encouragement
 
-Bobawu cheers you on after each lap on the Ape Atoll agility courseto spice up the grind
+Bobawu cheers you on after each lap of the Ape Atoll agility courseto spice up the grind
 
 ![Lap completed example text](docs/bobawu-encouragement.png)
 
